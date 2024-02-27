@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="20dp"
+    android:background="#271E21">
+
+    <TextView
+        android:id="@+id/txt30Seconds"
+        android:background="@drawable/rounded_corners_background"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textColor="@color/white"
+        android:padding="5dp"
+        android:text="30 seconds"
+        android:fontFamily="@font/fredoka_one"
+        android:textSize="22sp" />
+
+    <TextView
+        android:id="@+id/txt1Minute"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/rounded_corners_background"
+        android:gravity="center"
+        android:layout_marginTop="20dp"
+        android:text="1 minute"
+        android:padding="5dp"
+        android:fontFamily="@font/fredoka_one"
+        android:textColor="@color/white"
+        android:textSize="22sp"
+        />
+
+    <TextView
+        android:id="@+id/txt3Minutes"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/rounded_corners_background"
+        android:gravity="center"
+        android:text="3 minutes"
+        android:padding="5dp"
+        android:textColor="@color/white"
+        android:textSize="22sp"
+        android:fontFamily="@font/fredoka_one"
+        android:layout_marginTop="20dp"/>
+
+</LinearLayout>
+

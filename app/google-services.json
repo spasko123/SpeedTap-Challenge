@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "667728070225",
+    "project_id": "speedtap-challenge",
+    "storage_bucket": "speedtap-challenge.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667728070225:android:3ae7dfc00fbe3fca5e1a70",
+        "android_client_info": {
+          "package_name": "com.example.tectdepot.speedtapchallenge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "667728070225-seerkuhqp2eao2oq8njie5629loic60l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY0c8vCk5RHmhTb3xVc89oikdwfEkAZKg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "667728070225-seerkuhqp2eao2oq8njie5629loic60l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
