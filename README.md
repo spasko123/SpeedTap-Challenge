@@ -19,6 +19,7 @@ Firebase Integration: The app integrates with Firebase services, including Fireb
 Responsive Design: The app is designed with a responsive layout to ensure compatibility with various screen sizes and orientations, providing an optimal user experience across different Android devices.
 
 Overall, the Click Counter Challenge offers users an addictive and competitive experience, motivating them to continuously improve their clicking skills, climb the leaderboard, and unlock rewards from the shop. 
+THE APP IS NOT 100% READY!
 
 
 ![Screenshot 2024-02-27 120132](https://github.com/spasko123/SpeedTap-Challenge/assets/115783465/09ee973f-018c-4453-aacf-a2fd02e21fc6)
